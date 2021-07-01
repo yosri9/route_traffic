@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (2440805 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.7554284" minlon="10.4589844" maxlat="35.7643435" maxlon="10.4699707"/>
+ <node id="6782697153" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7612170" lon="10.4698902"/>
+ <node id="6782697154" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7612834" lon="10.4700713"/>
+ <node id="6782697155" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7613585" lon="10.4702389"/>
+ <node id="6782697156" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7614651" lon="10.4704736"/>
+ <node id="6782697157" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7615010" lon="10.4705876"/>
+ <node id="6782697158" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7615761" lon="10.4708008"/>
+ <node id="6782697159" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7616371" lon="10.4709510"/>
+ <node id="6782697160" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7617187" lon="10.4711214"/>
+ <node id="6782697161" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7619276" lon="10.4714459"/>
+ <node id="6782697162" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7621289" lon="10.4717490"/>
+ <node id="6782697163" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7622258" lon="10.4718831"/>
+ <node id="6782697164" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7622976" lon="10.4719609"/>
+ <node id="6782697165" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7623825" lon="10.4720695"/>
+ <node id="6782697166" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7624750" lon="10.4722077"/>
+ <node id="6782697167" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7630735" lon="10.4731585"/>
+ <node id="6782697168" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7634196" lon="10.4737057"/>
+ <node id="6782697169" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7634490" lon="10.4737580"/>
+ <node id="6782697170" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7634675" lon="10.4738049"/>
+ <node id="6782697171" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7634631" lon="10.4738532"/>
+ <node id="6782719208" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7611648" lon="10.4696770"/>
+ <node id="6782719209" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153" lat="35.7632830" lon="10.4735012"/>
+ <way id="723129810" visible="true" version="1" changeset="74261326" timestamp="2019-09-09T12:46:56Z" user="BlueMountains" uid="10142153">
+  <nd ref="6782697171"/>
+  <nd ref="6782697170"/>
+  <nd ref="6782697169"/>
+  <nd ref="6782697168"/>
+  <nd ref="6782719209"/>
+  <nd ref="6782697167"/>
+  <nd ref="6782697166"/>
+  <nd ref="6782697165"/>
+  <nd ref="6782697164"/>
+  <nd ref="6782697163"/>
+  <nd ref="6782697162"/>
+  <nd ref="6782697161"/>
+  <nd ref="6782697160"/>
+  <nd ref="6782697159"/>
+  <nd ref="6782697158"/>
+  <nd ref="6782697157"/>
+  <nd ref="6782697156"/>
+  <nd ref="6782697155"/>
+  <nd ref="6782697154"/>
+  <nd ref="6782697153"/>
+  <nd ref="6782719208"/>
+  <tag k="highway" v="residential"/>
+ </way>
+</osm>

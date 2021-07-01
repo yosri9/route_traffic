@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (2051799 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.4875110" minlon="10.5139160" maxlat="35.4964561" maxlon="10.5249023"/>
+ <node id="1939485164" visible="true" version="2" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481" lat="35.4919847" lon="10.5188898"/>
+ <node id="1939485166" visible="true" version="1" changeset="13307368" timestamp="2012-09-30T10:39:08Z" user="Toyota_79" uid="344903" lat="35.4933166" lon="10.5216398"/>
+ <node id="1939485167" visible="true" version="2" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481" lat="35.4936477" lon="10.5227780"/>
+ <node id="1939485168" visible="true" version="1" changeset="13307368" timestamp="2012-09-30T10:39:08Z" user="Toyota_79" uid="344903" lat="35.4938511" lon="10.5241430"/>
+ <node id="1939485169" visible="true" version="1" changeset="13307368" timestamp="2012-09-30T10:39:08Z" user="Toyota_79" uid="344903" lat="35.4938755" lon="10.5250147"/>
+ <node id="1939485170" visible="true" version="2" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481" lat="35.4938727" lon="10.5245697"/>
+ <node id="1939485171" visible="true" version="2" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481" lat="35.4939382" lon="10.5255166"/>
+ <node id="1939485172" visible="true" version="1" changeset="13307368" timestamp="2012-09-30T10:39:08Z" user="Toyota_79" uid="344903" lat="35.4941055" lon="10.5265356"/>
+ <node id="1939485173" visible="true" version="1" changeset="13307368" timestamp="2012-09-30T10:39:08Z" user="Toyota_79" uid="344903" lat="35.4941660" lon="10.5284296"/>
+ <node id="1939485174" visible="true" version="2" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481" lat="35.4941675" lon="10.5272090"/>
+ <node id="1939485175" visible="true" version="2" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481" lat="35.4941850" lon="10.5277669"/>
+ <node id="6722735514" visible="true" version="1" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481" lat="35.4937613" lon="10.5234405"/>
+ <node id="6722735515" visible="true" version="1" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481" lat="35.4935713" lon="10.5224052"/>
+ <node id="6722735516" visible="true" version="1" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481" lat="35.4934032" lon="10.5218634"/>
+ <node id="6722735517" visible="true" version="1" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481" lat="35.4935058" lon="10.5221906"/>
+ <way id="26402239" visible="true" version="7" changeset="73481262" timestamp="2019-08-19T06:48:24Z" user="PioneerSquare45" uid="9625481">
+  <nd ref="1939485164"/>
+  <nd ref="1939485166"/>
+  <nd ref="6722735516"/>
+  <nd ref="6722735517"/>
+  <nd ref="6722735515"/>
+  <nd ref="1939485167"/>
+  <nd ref="6722735514"/>
+  <nd ref="1939485168"/>
+  <nd ref="1939485170"/>
+  <nd ref="1939485169"/>
+  <nd ref="1939485171"/>
+  <nd ref="1939485172"/>
+  <nd ref="1939485174"/>
+  <nd ref="1939485175"/>
+  <nd ref="1939485173"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+</osm>

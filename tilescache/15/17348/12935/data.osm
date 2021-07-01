@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (1812617 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.3890500" minlon="10.5908203" maxlat="35.3980059" maxlon="10.6018066"/>
+ <node id="6581527189" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3938889" lon="10.5922177"/>
+ <node id="6581527190" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3940151" lon="10.5913038"/>
+ <node id="6581527191" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3940337" lon="10.5912293"/>
+ <node id="6581527192" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3940550" lon="10.5911898"/>
+ <node id="6581527193" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3940835" lon="10.5911643"/>
+ <node id="6581527194" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3941086" lon="10.5911516"/>
+ <node id="6581527195" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3941381" lon="10.5911475"/>
+ <node id="6581527196" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3946312" lon="10.5911851"/>
+ <node id="6581527197" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3947132" lon="10.5911797"/>
+ <node id="6581527198" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3947656" lon="10.5911663"/>
+ <node id="6581527199" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3948105" lon="10.5911368"/>
+ <node id="6581527200" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3948411" lon="10.5910979"/>
+ <node id="6581527201" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3948618" lon="10.5910403"/>
+ <node id="6581527202" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3948761" lon="10.5909839"/>
+ <node id="6581527203" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3949078" lon="10.5906862"/>
+ <node id="6581527204" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3949329" lon="10.5903871"/>
+ <node id="6581527205" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3949843" lon="10.5900344"/>
+ <node id="6581527206" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3950772" lon="10.5895194"/>
+ <node id="6581527249" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089" lat="35.3951592" lon="10.5891493"/>
+ <way id="700825547" visible="true" version="1" changeset="71780972" timestamp="2019-07-01T11:20:14Z" user="YongeDundas" uid="9625089">
+  <nd ref="6581527249"/>
+  <nd ref="6581527206"/>
+  <nd ref="6581527205"/>
+  <nd ref="6581527204"/>
+  <nd ref="6581527203"/>
+  <nd ref="6581527202"/>
+  <nd ref="6581527201"/>
+  <nd ref="6581527200"/>
+  <nd ref="6581527199"/>
+  <nd ref="6581527198"/>
+  <nd ref="6581527197"/>
+  <nd ref="6581527196"/>
+  <nd ref="6581527195"/>
+  <nd ref="6581527194"/>
+  <nd ref="6581527193"/>
+  <nd ref="6581527192"/>
+  <nd ref="6581527191"/>
+  <nd ref="6581527190"/>
+  <nd ref="6581527189"/>
+  <tag k="highway" v="residential"/>
+ </way>
+</osm>

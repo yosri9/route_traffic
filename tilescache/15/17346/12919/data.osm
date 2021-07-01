@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (2440805 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.5322262" minlon="10.5688477" maxlat="35.5411663" maxlon="10.5798340"/>
+ <node id="5774786250" visible="true" version="1" changeset="60928163" timestamp="2018-07-21T11:07:38Z" user="Tomi" uid="30255" lat="35.5441200" lon="10.5723804"/>
+ <node id="5774786251" visible="true" version="1" changeset="60928163" timestamp="2018-07-21T11:07:38Z" user="Tomi" uid="30255" lat="35.5412979" lon="10.5656418"/>
+ <node id="5774786252" visible="true" version="1" changeset="60928163" timestamp="2018-07-21T11:07:38Z" user="Tomi" uid="30255" lat="35.5398694" lon="10.5664063"/>
+ <node id="5774786353" visible="true" version="1" changeset="60928163" timestamp="2018-07-21T11:07:38Z" user="Tomi" uid="30255" lat="35.5406643" lon="10.5707666"/>
+ <node id="5774786354" visible="true" version="1" changeset="60928163" timestamp="2018-07-21T11:07:38Z" user="Tomi" uid="30255" lat="35.5391783" lon="10.5716868"/>
+ <node id="5774786355" visible="true" version="1" changeset="60928163" timestamp="2018-07-21T11:07:38Z" user="Tomi" uid="30255" lat="35.5410905" lon="10.5763443"/>
+ <node id="5774786356" visible="true" version="1" changeset="60928163" timestamp="2018-07-21T11:07:38Z" user="Tomi" uid="30255" lat="35.5405836" lon="10.5782272"/>
+ <node id="5774786357" visible="true" version="1" changeset="60928163" timestamp="2018-07-21T11:07:38Z" user="Tomi" uid="30255" lat="35.5431294" lon="10.5782130"/>
+ <node id="5774786358" visible="true" version="1" changeset="60928163" timestamp="2018-07-21T11:07:38Z" user="Tomi" uid="30255" lat="35.5430718" lon="10.5735555"/>
+ <node id="7471938613" visible="true" version="1" changeset="84487618" timestamp="2020-05-01T18:24:03Z" user="selimachour" uid="400177" lat="35.5414116" lon="10.5711008"/>
+ <node id="7471938614" visible="true" version="1" changeset="84487618" timestamp="2020-05-01T18:24:03Z" user="selimachour" uid="400177" lat="35.5410462" lon="10.5720690"/>
+ <node id="7471938615" visible="true" version="1" changeset="84487618" timestamp="2020-05-01T18:24:03Z" user="selimachour" uid="400177" lat="35.5412841" lon="10.5720985"/>
+ <node id="7471938616" visible="true" version="1" changeset="84487618" timestamp="2020-05-01T18:24:03Z" user="selimachour" uid="400177" lat="35.5415242" lon="10.5721468"/>
+ <node id="7471938617" visible="true" version="1" changeset="84487618" timestamp="2020-05-01T18:24:03Z" user="selimachour" uid="400177" lat="35.5417708" lon="10.5721682"/>
+ <node id="7471938618" visible="true" version="1" changeset="84487618" timestamp="2020-05-01T18:24:03Z" user="selimachour" uid="400177" lat="35.5419293" lon="10.5721631"/>
+ <node id="7471938619" visible="true" version="1" changeset="84487618" timestamp="2020-05-01T18:24:03Z" user="selimachour" uid="400177" lat="35.5402562" lon="10.5719537"/>
+ <node id="7471938620" visible="true" version="1" changeset="84487618" timestamp="2020-05-01T18:24:03Z" user="selimachour" uid="400177" lat="35.5418621" lon="10.5707683"/>
+ <way id="609708298" visible="true" version="1" changeset="60928163" timestamp="2018-07-21T11:07:40Z" user="Tomi" uid="30255">
+  <nd ref="5774786250"/>
+  <nd ref="5774786251"/>
+  <nd ref="5774786252"/>
+  <nd ref="5774786353"/>
+  <nd ref="5774786354"/>
+  <nd ref="5774786355"/>
+  <nd ref="5774786356"/>
+  <nd ref="5774786357"/>
+  <nd ref="5774786358"/>
+  <nd ref="5774786250"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="798916069" visible="true" version="1" changeset="84487618" timestamp="2020-05-01T18:24:03Z" user="selimachour" uid="400177">
+  <nd ref="7471938618"/>
+  <nd ref="7471938617"/>
+  <nd ref="7471938616"/>
+  <nd ref="7471938615"/>
+  <nd ref="7471938614"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+ <way id="798916070" visible="true" version="1" changeset="84487618" timestamp="2020-05-01T18:24:03Z" user="selimachour" uid="400177">
+  <nd ref="7471938620"/>
+  <nd ref="7471938613"/>
+  <nd ref="7471938619"/>
+  <tag k="highway" v="unclassified"/>
+ </way>
+</osm>

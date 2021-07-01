@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (430856 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.3084014" minlon="10.4809570" maxlat="35.3173663" maxlon="10.4919434"/>
+ <node id="6568186616" visible="true" version="3" changeset="72927830" timestamp="2019-08-02T08:15:07Z" user="LaMosquitia" uid="9225363" lat="35.3186516" lon="10.4872984"/>
+ <node id="6568395685" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3169970" lon="10.4878154"/>
+ <node id="6568395686" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3137693" lon="10.4891995"/>
+ <node id="6568395687" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3142771" lon="10.4889460"/>
+ <node id="6568395688" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3153856" lon="10.4884619"/>
+ <node id="6568395689" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3159580" lon="10.4882365"/>
+ <node id="6568395690" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3164099" lon="10.4880340"/>
+ <node id="6568395691" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3168257" lon="10.4878530"/>
+ <node id="6568395692" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3169141" lon="10.4878208"/>
+ <node id="6568395693" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3170638" lon="10.4878161"/>
+ <node id="6568395694" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3176673" lon="10.4876894"/>
+ <node id="6568395695" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196" lat="35.3181794" lon="10.4875150"/>
+ <way id="699472823" visible="true" version="1" changeset="71571923" timestamp="2019-06-24T18:17:30Z" user="HighAtlas" uid="9625196">
+  <nd ref="6568186616"/>
+  <nd ref="6568395695"/>
+  <nd ref="6568395694"/>
+  <nd ref="6568395693"/>
+  <nd ref="6568395685"/>
+  <nd ref="6568395692"/>
+  <nd ref="6568395691"/>
+  <nd ref="6568395690"/>
+  <nd ref="6568395689"/>
+  <nd ref="6568395688"/>
+  <nd ref="6568395687"/>
+  <nd ref="6568395686"/>
+  <tag k="highway" v="residential"/>
+ </way>
+</osm>

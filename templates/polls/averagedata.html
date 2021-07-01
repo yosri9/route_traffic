@@ -1,0 +1,12 @@
+{% load static %}
+<link rel="stylesheet" type="text/css" href="{% static 'polls/style.css' %}"/>
+
+{% if average_data_list%}
+    <ul>
+        {% for road in  roads %}
+            <li>{{ road }}</li>
+        {% endfor %}
+
+    </ul>
+
+{% endif %}

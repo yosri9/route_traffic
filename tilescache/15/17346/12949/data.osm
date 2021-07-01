@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (2199559 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.2635619" minlon="10.5688477" maxlat="35.2725318" maxlon="10.5798340"/>
+ <node id="6597983807" visible="true" version="3" changeset="72379912" timestamp="2019-07-18T09:04:39Z" user="Vesturbaer" uid="10142297" lat="35.2756598" lon="10.5702974"/>
+ <node id="6627201132" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2754638" lon="10.5704570"/>
+ <node id="6627201133" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2753237" lon="10.5706072"/>
+ <node id="6627201134" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2751638" lon="10.5708030"/>
+ <node id="6627201135" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2750171" lon="10.5709317"/>
+ <node id="6627201136" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2747894" lon="10.5710793"/>
+ <node id="6627201137" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2743186" lon="10.5713689"/>
+ <node id="6627201138" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2740651" lon="10.5715446"/>
+ <node id="6627201139" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2738369" lon="10.5717552"/>
+ <node id="6627201140" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2729807" lon="10.5724499"/>
+ <node id="6627201141" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2724157" lon="10.5729246"/>
+ <node id="6627201142" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2721310" lon="10.5731258"/>
+ <node id="6627201143" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2719602" lon="10.5732867"/>
+ <node id="6627201144" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2717018" lon="10.5735174"/>
+ <node id="6627201145" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2715792" lon="10.5736542"/>
+ <node id="6627201146" visible="true" version="1" changeset="72378824" timestamp="2019-07-18T08:37:27Z" user="Vesturbaer" uid="10142297" lat="35.2713668" lon="10.5738205"/>
+ <node id="6627211439" visible="true" version="1" changeset="72379912" timestamp="2019-07-18T09:04:39Z" user="Vesturbaer" uid="10142297" lat="35.2755646" lon="10.5703685"/>
+ <way id="705388447" visible="true" version="2" changeset="72379912" timestamp="2019-07-18T09:04:39Z" user="Vesturbaer" uid="10142297">
+  <nd ref="6597983807"/>
+  <nd ref="6627211439"/>
+  <nd ref="6627201132"/>
+  <nd ref="6627201133"/>
+  <nd ref="6627201134"/>
+  <nd ref="6627201135"/>
+  <nd ref="6627201136"/>
+  <nd ref="6627201137"/>
+  <nd ref="6627201138"/>
+  <nd ref="6627201139"/>
+  <nd ref="6627201140"/>
+  <nd ref="6627201141"/>
+  <nd ref="6627201142"/>
+  <nd ref="6627201143"/>
+  <nd ref="6627201144"/>
+  <nd ref="6627201145"/>
+  <nd ref="6627201146"/>
+  <tag k="highway" v="residential"/>
+ </way>
+</osm>

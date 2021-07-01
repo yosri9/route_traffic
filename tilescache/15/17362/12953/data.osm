@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (1412225 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.2276724" minlon="10.7446289" maxlat="35.2366462" maxlon="10.7556152"/>
+ <node id="6777132923" visible="true" version="2" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2261781" lon="10.7551606"/>
+ <node id="6777283820" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2263282" lon="10.7550251"/>
+ <node id="6777283821" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2264191" lon="10.7549594"/>
+ <node id="6777283822" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2265188" lon="10.7548991"/>
+ <node id="6777283823" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2266842" lon="10.7548159"/>
+ <node id="6777283824" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2272101" lon="10.7545155"/>
+ <node id="6777283825" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2276680" lon="10.7543090"/>
+ <node id="6777283826" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2279944" lon="10.7541856"/>
+ <node id="6777283827" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2281675" lon="10.7541373"/>
+ <node id="6777283828" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2284633" lon="10.7540944"/>
+ <node id="6777283829" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600" lat="35.2288161" lon="10.7539844"/>
+ <way id="722515471" visible="true" version="1" changeset="74180307" timestamp="2019-09-06T14:39:38Z" user="Josefstadt" uid="10074600">
+  <nd ref="6777132923"/>
+  <nd ref="6777283820"/>
+  <nd ref="6777283821"/>
+  <nd ref="6777283822"/>
+  <nd ref="6777283823"/>
+  <nd ref="6777283824"/>
+  <nd ref="6777283825"/>
+  <nd ref="6777283826"/>
+  <nd ref="6777283827"/>
+  <nd ref="6777283828"/>
+  <nd ref="6777283829"/>
+  <tag k="highway" v="residential"/>
+ </way>
+</osm>

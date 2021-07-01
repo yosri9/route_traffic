@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (1812617 spike-08.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.7732576" minlon="10.5358887" maxlat="35.7821707" maxlon="10.5468750"/>
+ <node id="316605014" visible="true" version="2" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7740454" lon="10.5415052"/>
+ <node id="316605015" visible="true" version="2" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7753967" lon="10.5409822"/>
+ <node id="316605016" visible="true" version="2" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7768221" lon="10.5404082"/>
+ <node id="316605017" visible="true" version="1" changeset="111872" timestamp="2008-12-04T11:51:09Z" user="drosera" uid="38207" lat="35.7800142" lon="10.5391187"/>
+ <node id="316605018" visible="true" version="1" changeset="111872" timestamp="2008-12-04T11:51:09Z" user="drosera" uid="38207" lat="35.7825696" lon="10.5380544"/>
+ <node id="316605019" visible="true" version="1" changeset="111872" timestamp="2008-12-04T11:51:09Z" user="drosera" uid="38207" lat="35.7854383" lon="10.5369472"/>
+ <node id="316605020" visible="true" version="1" changeset="111872" timestamp="2008-12-04T11:51:09Z" user="drosera" uid="38207" lat="35.7883695" lon="10.5357198"/>
+ <node id="316605021" visible="true" version="7" changeset="71898985" timestamp="2019-07-04T14:10:32Z" user="Snowdonian" uid="10074572" lat="35.7903996" lon="10.5365572"/>
+ <node id="6682371995" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7794159" lon="10.5393112"/>
+ <node id="6682371996" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7780559" lon="10.5398798"/>
+ <node id="6682371997" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7783780" lon="10.5397484"/>
+ <node id="6682371998" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7788589" lon="10.5395351"/>
+ <node id="6682371999" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7776142" lon="10.5400461"/>
+ <node id="6682372000" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7772029" lon="10.5402178"/>
+ <node id="6682372001" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7759756" lon="10.5407327"/>
+ <node id="6682372002" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7744414" lon="10.5413255"/>
+ <node id="6682372003" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7747657" lon="10.5411941"/>
+ <node id="6682372004" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7731880" lon="10.5418539"/>
+ <node id="6682372005" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7726744" lon="10.5420551"/>
+ <node id="6682372006" visible="true" version="1" changeset="73001863" timestamp="2019-08-05T01:30:59Z" user="Itsalex" uid="8076813" lat="35.7735710" lon="10.5416903"/>
+ <node id="6715582318" visible="true" version="1" changeset="73413609" timestamp="2019-08-16T12:25:32Z" user="Sal73x" uid="1293386" lat="35.7720905" lon="10.5422689"/>
+ <way id="714404984" visible="true" version="2" changeset="73413609" timestamp="2019-08-16T12:25:32Z" user="Sal73x" uid="1293386">
+  <nd ref="6715582318"/>
+  <nd ref="6682372005"/>
+  <nd ref="6682372004"/>
+  <nd ref="6682372006"/>
+  <nd ref="316605014"/>
+  <nd ref="6682372002"/>
+  <nd ref="6682372003"/>
+  <nd ref="316605015"/>
+  <nd ref="6682372001"/>
+  <nd ref="316605016"/>
+  <nd ref="6682372000"/>
+  <nd ref="6682371999"/>
+  <nd ref="6682371996"/>
+  <nd ref="6682371997"/>
+  <nd ref="6682371998"/>
+  <nd ref="6682371995"/>
+  <nd ref="316605017"/>
+  <nd ref="316605018"/>
+  <nd ref="316605019"/>
+  <nd ref="316605020"/>
+  <nd ref="316605021"/>
+  <tag k="highway" v="track"/>
+  <tag k="surface" v="ground"/>
+  <tag k="tracktype" v="grade3"/>
+ </way>
+</osm>

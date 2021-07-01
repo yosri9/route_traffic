@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (2263899 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="35.0659731" minlon="9.6899414" maxlat="35.0749649" maxlon="9.7009277"/>
+ <node id="1919426389" visible="true" version="2" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0702057" lon="9.6984601"/>
+ <node id="1919426409" visible="true" version="2" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0696273" lon="9.6839119"/>
+ <node id="1919426417" visible="true" version="1" changeset="13150272" timestamp="2012-09-17T23:32:52Z" user="DF45" uid="239546" lat="35.0699762" lon="9.6902693"/>
+ <node id="1919426469" visible="true" version="2" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0704362" lon="9.7066730"/>
+ <node id="1919426487" visible="true" version="2" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0706360" lon="9.7141188"/>
+ <node id="2076133501" visible="true" version="2" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0706996" lon="9.7161922"/>
+ <node id="2128350880" visible="true" version="2" changeset="74167060" timestamp="2019-09-06T10:21:13Z" user="Laugavegur35" uid="10142206" lat="35.0703462" lon="9.7041115"/>
+ <node id="6693990737" visible="true" version="1" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0708258" lon="9.7215968"/>
+ <node id="6693990738" visible="true" version="1" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0705921" lon="9.7118738"/>
+ <node id="6693990739" visible="true" version="1" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0703045" lon="9.7018504"/>
+ <node id="6693990740" visible="true" version="1" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0701267" lon="9.6956196"/>
+ <node id="6693990741" visible="true" version="1" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0698962" lon="9.6880800"/>
+ <node id="6693990742" visible="true" version="1" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0698764" lon="9.6875140"/>
+ <node id="6693990743" visible="true" version="1" changeset="73135559" timestamp="2019-08-08T05:00:21Z" user="PaintItRed" uid="8392769" lat="35.0698435" lon="9.6868971"/>
+ <way id="711924402" visible="true" version="2" changeset="83102692" timestamp="2020-04-05T15:28:52Z" user="Anis Ben Makhlouf" uid="10001069">
+  <nd ref="6693990737"/>
+  <nd ref="2076133501"/>
+  <nd ref="1919426487"/>
+  <nd ref="6693990738"/>
+  <nd ref="1919426469"/>
+  <nd ref="2128350880"/>
+  <nd ref="6693990739"/>
+  <nd ref="1919426389"/>
+  <nd ref="6693990740"/>
+  <nd ref="1919426417"/>
+  <nd ref="6693990741"/>
+  <nd ref="6693990742"/>
+  <nd ref="6693990743"/>
+  <nd ref="1919426409"/>
+  <tag k="highway" v="primary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="maxspeed" v="90"/>
+  <tag k="name" v="الطريق الوطنية صفاقس - القصرين"/>
+  <tag k="name:ar" v="الطريق الوطنية صفاقس - القصرين"/>
+  <tag k="name:fr" v="Route Nationale Sfax - Kasserine"/>
+  <tag k="ref" v="RN 13 ط و"/>
+ </way>
+</osm>
